@@ -19,6 +19,6 @@ in the terminal
 
 The vtk data files in /data/phi can be visualized by Paraview.
 
-Cross-section images of the simulaitn box can also be quickly checked in the /figures/phi
+Cross-section images of the simulation box can also be quickly checked in the /figures/phi
 
 Please contact chuanqi.zhu@mat.eng.osaka-u.ac.jp if you have any questions
