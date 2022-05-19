@@ -4,9 +4,17 @@ This is a basic multi-phase-field model that can simulate the growth of grains w
 
 You can extend this model based on your needs.
 
-Run the code by typing
+Dowdload the code by enter the terminal command in your folder:
 
+```
+git clone https://github.com/chuanqizhu2022/MPF-cubic-anisotropy.git
+
+```
+
+Run the program by simply entering:
+```
 ./run.sh
+```
 
 in the terminal
 
