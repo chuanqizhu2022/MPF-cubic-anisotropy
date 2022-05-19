@@ -8,7 +8,6 @@ Dowdload the code by enter the terminal command in your folder:
 
 ```
 git clone https://github.com/chuanqizhu2022/MPF-cubic-anisotropy.git
-
 ```
 
 Run the program by simply entering:
